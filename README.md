@@ -12,9 +12,9 @@ The number of days of each category was determined in a similar fashion as done 
 
 3) Visualizations were created using Matplotlib and openstreetmap. A sample of each are below. In the map of the U.S, dot size indicated the number of days at each value and the color indicates the value. The color scale is the same as used by the EPA.
 
-<img src="air_pollution_API_analysis/Newark_AQI_2022.png">
+<img src="Newark_AQI_2022.png">
 <img src="2022_Newark_AQI_LineGraph.png">
-<img src="air_pollution_API_analysis/AQI_Animated.GIF">
+<img src="AQI_Animated.GIF">
 
 
 
